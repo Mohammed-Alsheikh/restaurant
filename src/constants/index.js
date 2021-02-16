@@ -1,0 +1,15 @@
+export const ROUTES = {
+  App: 'App',
+  Auth: 'Auth',
+  MainStack: 'MainStack',
+  Home: 'Home',
+  OrderDetails: 'OrderDetails',
+  NewMeal: 'NewMeal',
+  Drivers: 'Drivers',
+  Menu: 'Menu',
+  MenuStack: 'MenuStack',
+  Meal: 'Meal',
+  Details: 'Details',
+  AllOrders: 'AllOrders',
+  OrdersStack: 'OrdersStack',
+};
